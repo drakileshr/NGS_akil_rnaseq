@@ -1,0 +1,15 @@
+Status	HBR1_sorted.sorted.bam	HBR2_sorted.sorted.bam	HBR3_sorted.sorted.bam	UHR1_sorted.sorted.bam	UHR2_sorted.sorted.bam	UHR3_sorted.sorted.bam
+Assigned	43634	53653	47524	78949	52418	63211
+Unassigned_Unmapped	55587	68159	60834	116272	77650	96704
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	19122	22641	21035	31967	32389	25668
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0

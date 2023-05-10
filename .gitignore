@@ -1,0 +1,17 @@
+pass.txt
+*.tar
+*.fasta
+*.zip
+bin
+conda-meta
+include
+lib
+share
+sbin
+ssl
+legal
+libexec
+man
+etc
+conf
+samtools-env

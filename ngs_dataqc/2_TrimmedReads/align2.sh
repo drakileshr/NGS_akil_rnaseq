@@ -19,3 +19,5 @@
 for i in `ls *_sorted.sorted.bam|cut -d "_" -f1`;do stringtie –G GRCh38.chr22.gtf –o $i"transcripts.gtf" $i"_sorted.sorted.bam";done
 
 stringtie --merge -o merged.gtf -G GRCh38.chr22.gtf *transcripts.gtf
+
+conda install -c bioconda pbmarkdup 
